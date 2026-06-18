@@ -1,5 +1,5 @@
 ## [Sorun başlığı]
-**Bağlam:** Hytale Early Access, [tarih / bildiğin sürüm bilgisi]
+**Bağlam:** Şablon nasıl olmalı, [tarih / bildiğin sürüm bilgisi]
 ### Problem
 (ne çalışmıyordu / neyi yapmaya çalışıyordun)
 ### Neden

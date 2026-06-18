@@ -1,5 +1,5 @@
 ## [Issue Title]
-**Context:** Hytale Early Access, [date / version information if known]
+**Context:** What should the template look like?, [date / version information if known]
 ### Problem
 (what wasn't working / what were you trying to do)
 ### Cause
