@@ -11,8 +11,6 @@
 
 ---
 ### Çözümler
-
-
 #### p1-şablon-ölçü:
 - Logo ölçüleri için araştırma yaptım. 
 - Ölçeklendirilebilir şablon boyutu: **1200 x 1200 px**
