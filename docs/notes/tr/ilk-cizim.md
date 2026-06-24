@@ -75,13 +75,18 @@ Bütün çizimi bitirdikten sonra ismini nasıl vermem gerekecek.
 [İlgili Makale](https://cocoro.faag.co.jp/en/what-is-a-japanese-family-crest-meaning-history-and-design/)
 
 ---
-###  Notlar:
-- Kağıt üzerinde çalışırken, eğer ölçülü çalışmak istiyorsan, kesinlikle hassas bir cetvelin olmalı, 1,1 gibi bir yuvarlama dahi oran orantıyı ciddi anlamda zedeledi. Görselleri incelersen, çizgilerin ne kadar eğrileştiğini ve karelerin tam olmadığını fark edeceksin, muhtemelen benim cetvel kullanma becerilerimin de tembel olmasının önemli bir payı var.
+###  Sonuç:
 
-- Kağıt üzerin de epeyce bir çizim yaptım ve en zahmetsiz ve soyut şekilde çalıştım, temel olarak nasıl bir şey görmek istediğime karar vermek için oldukça faydalıydı, ancak dijitale geçtiğim de tasarıma gerçekten detay vermeye çalıştım.
+- Gimpte tasarladığım ilk kamon [maru-one-tilsu-mon.png](/exports/maru-one-tilsu-mon.png)
+    - **Ocimum tenuiflorum(Tilsu)**: Ballıbabagiller familyasından aromatik bir bitkidir. Ayurveda tıbbında 3000 yılı aşkın süredir "yaşam iksiri" olarak kullanılan, adaptojen özelliklere sahip şifalı bir yeşil yapraklı bitkidir.
+
+
+- Kağıt üzerin de epeyce bir çizim yaptım ve en zahmetsiz ve soyut şekilde çalıştım, temel olarak nasıl bir şey görmek istediğime karar vermek için oldukça faydalıydı, ancak dijitale geçtiğim de tasarıma gerçekten detay vermeye çalıştım ve kurgusunu da değiştirdim.
+
+- Kağıt üzerinde çalışırken, eğer ölçülü çalışmak istiyorsan, kesinlikle hassas bir cetvelin olmalı, 1,1 gibi bir yuvarlama dahi oran orantıyı ciddi anlamda zedeledi. Görselleri incelersen, çizgilerin ne kadar eğrileştiğini ve karelerin tam olmadığını fark edeceksin, muhtemelen benim cetvel kullanma becerilerimin de tembel olmasının önemli bir payı var.
 
 - GIMP bu iş için doğru araç olmayabilir, açık kaynak kodlu ve ücretsiz başka araçlarla çok daha rahat çalışılabilir, lakin GIMP ile devam edeceğim.
 
-
+**Not:** [İlk Çizim Referanslar](/docs/workbook/references/research.md#i̇lk-çizim-referanslar)
 
 ---
