@@ -31,7 +31,7 @@ Bütün çizimi bitirdikten sonra ismini nasıl vermem gerekecek.
     - Marjinler  : 2,675 / 11,325 (sağ/yukarı,sol/aşağı)
     - Grid Ölçü  : 8,65 / 8 = 1,08125 ≈ 1,1 (kağıt üzerinde ben böyle kabul 
     ettim, hassas bir cetvelim olmadığı için).
-    - [Steps](/docs/notes/tr/bitki-motifi-sablon.md/#p1-şablon:)
+    - [Örnek Görseller](/docs/workbook/references/own-resources.md/#i̇lk-çizim-aşamalar:)
 - **Kaynak:** [Bitki Motifi](/docs/notes/tr/bitki-motifi-sablon.md/#p1-şablon:)
 
 #### p2-ızgaraya-çizim
@@ -77,6 +77,8 @@ Bütün çizimi bitirdikten sonra ismini nasıl vermem gerekecek.
 ---
 ###  Notlar:
 - Kağıt üzerinde çalışırken, eğer ölçülü çalışmak istiyorsan, kesinlikle hassas bir cetvelin olmalı, 1,1 gibi bir yuvarlama dahi oran orantıyı ciddi anlamda zedeledi. Görselleri incelersen, çizgilerin ne kadar eğrileştiğini ve karelerin tam olmadığını fark edeceksin, muhtemelen benim cetvel kullanma becerilerimin de tembel olmasının önemli bir payı var.
+
+- Kağıt üzerin de epeyce bir çizim yaptım ve en zahmetsiz ve soyut şekilde çalıştım, temel olarak nasıl bir şey görmek istediğime karar vermek için oldukça faydalıydı, ancak dijitale geçtiğim de tasarıma gerçekten detay vermeye çalıştım.
 
 - GIMP bu iş için doğru araç olmayabilir, açık kaynak kodlu ve ücretsiz başka araçlarla çok daha rahat çalışılabilir, lakin GIMP ile devam edeceğim.
 
