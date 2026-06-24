@@ -31,8 +31,8 @@ Bütün çizimi bitirdikten sonra ismini nasıl vermem gerekecek.
     - Marjinler  : 2,675 / 11,325 (sağ/yukarı,sol/aşağı)
     - Grid Ölçü  : 8,65 / 8 = 1,08125 ≈ 1,1 (kağıt üzerinde ben böyle kabul 
     ettim, hassas bir cetvelim olmadığı için).
-    - [Örnek Görseller](/docs/workbook/references/own-resources.md/#i̇lk-çizim-aşamalar:)
-- **Kaynak:** [Bitki Motifi](/docs/notes/tr/bitki-motifi-sablon.md/#p1-şablon:)
+    - [Örnek Görseller](/docs/workbook/references/own-resources.md#i̇lk-çizim-aşamalar:)
+- **Kaynak:** [Bitki Motifi](/docs/notes/tr/bitki-motifi-sablon.md#p1-şablon:)
 
 #### p2-ızgaraya-çizim
 - **Kağıt üzerinde:** 
