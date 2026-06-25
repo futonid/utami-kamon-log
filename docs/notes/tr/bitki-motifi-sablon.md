@@ -28,7 +28,7 @@ Bitki motifleri doğadan gelse de Kamon tasarımında yüksek düzeyde soyutlanm
 - Kamon tasarımları genellikle merkezden dışa doğru denge kurar.
 - Motif için ana aksı oluştur: `Image` > `Guides` > `New Guide (by Percent)` diyerek hem Horizontal hem Vertical olarak `%50` değerinde merkez kılavuzlarını yerleştir. 
 - Daire çizimi için, Tool: `Ellipse Select Tool` (E), Tool Options: `Fixed Aspect Ratio (1:1)` seçeneğini işaretle. `Expand from center` kutucuğunu aktif et.
-    - Uygulama: İmleci merkez kesişim noktasına koyun ve aktif alanınızın sınırlarına (742 px'lik kareye) değecek şekilde daireyi çizin. [Müller-Brockmann'ın](/docs/workbook/references/resources.md#grid-system) sisteminde bu daire, dış kılavuzlarla matematiksel olarak tam çakışmalıdır
+    - Uygulama: İmleci merkez kesişim noktasına koyun ve aktif alanınızın sınırlarına (742 px'lik kareye) değecek şekilde daireyi çizin. [Müller-Brockmann'ın](/docs/workbook/references/research.md#grid-system) sisteminde bu daire, dış kılavuzlarla matematiksel olarak tam çakışmalıdır
 
 
 #### p3-grid-yapısı:
@@ -53,7 +53,7 @@ Bitki motifleri doğadan gelse de Kamon tasarımında yüksek düzeyde soyutlanm
 
 **Not:**    
 (Denge ve Negatif Alan)
-[Müller-Brockmann'ın](/docs/workbook/references/resources.md#grid-system) sisteminde boş (beyaz) alanlar, siyah formlar kadar aktif.
+[Müller-Brockmann'ın](/docs/workbook/references/research.md#grid-system) sisteminde boş (beyaz) alanlar, siyah formlar kadar aktif.
 
 Monochrome Balance: Siyah bitki formlarının ızgara üzerinde kaç modül kapladığını say. Beyaz boşlukların bu formlarla bir "ritim" oluşturduğundan emin ol.
 

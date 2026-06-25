@@ -14,7 +14,7 @@
 #### p1-şablon-ölçü:
 - Logo ölçüleri için araştırma yaptım. 
 - Ölçeklendirilebilir şablon boyutu: **1200 x 1200 px**
-- **Kaynak:** [Logo](/docs/workbook/references/resources.md#logo)
+- **Kaynak:** [Logo](/docs/workbook/references/research.md#logo)
 
 
 #### p2-grid-yapısı:
@@ -23,7 +23,7 @@
 - Kamonlar sıklıkla daire (maru) formunu temel alır ve simetriye dayanır.
 - Motif seçilmeli ve motife uygun çalışılmalı
 - Maru içinde mi yoksa serbest mi olacağına karar verilmeli.
-- **Kaynak:** [Kamon](/docs/workbook/references/resources.md#kamon)
+- **Kaynak:** [Kamon](/docs/workbook/references/research.md#kamon)
 ---
 ### Sonuç
 #### Grid Hesabı
@@ -34,7 +34,7 @@
 - Küçük Birimler: Izgara sistemi, iki boyutlu bir düzlemi daha küçük hücrelere ayırır. Bu hücrelere "alan" veya "modül" denir
 - Yapı Taşları: Tasarladığınız bitki motifinin parçalarını (yaprak, sap vb.) bu modüllerin içine veya birkaç modülü birleştirerek oluşturduğunuz alanlara yerleştirirsiniz
 - Hesaplama Örneği: 1200 piksellik alanınızdan kenar boşluklarını (örneğin her yandan 100 piksel) çıkardınız; elinizde 1000 piksellik net alan kaldı. Eğer 8 sütunlu bir ızgara istiyorsanız, 1000 / 8 = 125 piksellik kare modüller elde edersiniz
-- **Kaynak:** [Grid System](/docs/workbook/references/resources.md#grid-system)
+- **Kaynak:** [Grid System](/docs/workbook/references/research.md#grid-system)
 
 **Not:** Kaynakların analizinde NotebookLM'den faydalandım.
 

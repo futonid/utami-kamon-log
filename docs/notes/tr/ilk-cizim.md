@@ -13,7 +13,7 @@ Bütün çizimi bitirdikten sonra ismini nasıl vermem gerekecek.
 
 ### Çözüm
 #### p1-ilk-çizim-nereye
-- [Müller-Brockmann'ın](/docs/workbook/references/resources.md#grid-system) tasarım sürecine kesinlikle küçük ölçekli eskizlerle kağıt üzerinde başlaması öneriliyor.
+- [Müller-Brockmann'ın](/docs/workbook/references/research.md#grid-system) tasarım sürecine kesinlikle küçük ölçekli eskizlerle kağıt üzerinde başlaması öneriliyor.
 - Malzemelerim şu şekilde;
     - Tükenmez kalem, 
     - Kurşun kalem, 
