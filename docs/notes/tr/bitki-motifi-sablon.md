@@ -21,7 +21,15 @@ Bitki motifleri doğadan gelse de Kamon tasarımında yüksek düzeyde soyutlanm
 - Margin (Kenar Boşluğu) Hesabı: `(1200 - 742) / 2 = 229 px`.
 - Guides (Kılavuzlar): Image > Guides > New Guide (by Pixels) yolunu izleyerek hem dikey (Vertical) hem yatay (Horizontal) olarak 229 px ve 971 px (229+742) konumlarına kılavuz çizgileri ekleyin.
 - **Kaynak:** [Analiz](/docs/notes/tr/analiz-sablonlar.md)
-
+**Alternatif: Yüzde Bazlı Altın Oran (her tuval boyutu için geçerli)**
+- Piksel hesaplamak yerine, GIMP'in yüzde tabanlı guide özelliği kullanılabilir; bu yöntem tuval boyutundan bağımsızdır çünkü φ (1.618) sabiti yüzdeye sabit şekilde yansır: **%38.2** ve **%61.8**.
+- `Image > Guides > New Guide (by Percent)` yolunu izleyerek:
+  - Orientation: Vertical, Position: `38.2` → ekle
+  - Orientation: Vertical, Position: `61.8` → ekle
+  - Orientation: Horizontal, Position: `38.2` → ekle
+  - Orientation: Horizontal, Position: `61.8` → ekle
+- Bu 4 guide, tuval boyutu ne olursa olsun (örn. 1080x400, 1200x1200 vb.) aynı oranda 4 kesişim noktası oluşturur; metin bloğu veya odak unsuru bu noktalardan birine hizalanabilir.
+- Not: %38.2 + %61.8 = 100; iki çizgi tuvali "büyük parça – küçük parça" mantığıyla iki kez (38-62 ve 62-38) böler.
 
 #### p2-maru-kararı:
 - Dairesel çerçevede yapılacak.
